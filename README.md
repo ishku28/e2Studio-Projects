@@ -1,4 +1,4 @@
-CANRA6T2
+CAN_RA6T2.7z
  ## What it does
 
   1. Opens CANFD channel 0.
